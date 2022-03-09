@@ -11,6 +11,7 @@ Consignes pour le **Travail 2** (Rapport sur les projets en création des finiss
 - [ ] au visionnement de la présentation de leur projet en création 
 - [ ] à la visite des studios
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
+- [ ] 
 
 **Créer, en équipe de 3, un *repository* qui nous permet de découvrir les projets en création**  
 Vous devrez créer un fichier .md qui vous permettra de présenter pour chacun des projets :
