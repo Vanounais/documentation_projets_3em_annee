@@ -4,7 +4,6 @@
 ### J'ai vraiment apprécié leur oeuvre, je trouve que c'était une idée très originale et que tous les éléments allaient bien ensemble. Je crois assurément que je ressentirai vraiment l'effet qu'ils voulaient partager.###
 
 ## 2) Jeu temporel : ##
-
 ### Je trouve que l'idée du jeu télévisé c'est une bonne idée. Je trouve que c'est un bon projet qui peut faire en sorte, que les gens apprennent toutes sortes de connaissances tout en socialisant et s'amusant. Je pense que ce projet pourrait remettre en doute et me montrer certaines connaissances que je ne connaissais pas.
 
 ## 3) 3 minutes. ##
@@ -13,7 +12,8 @@
 ## 4) Chère Sasha ##
 ### Je trouve que l'histoire est claire et intriguante, même si cela ne m'intéresse moins que les autres oeuvres ci-dessus. Par contre, je suis curieux de savoir à         quoi ressemblera le résultat final. ### 
 
-##  5) Chronaufrage ##
- ### Je pense que l'idée est bonne, par contre personnellement de mon côté surtout en raison de mon handicap je n'aime pas trop la projections de dessins j'aime mieux une oeuvre immersive. Donc je serai curieux de voir le résultat final mais je ne crois pas que ça m'intéresserais plus que ça. Je ressentirais plus un mouvement d'ennui surtout si je suis loin de la projection ###
+##  5) Chronofrage ##
+ ### Je pense que l'idée est bonne, par contre personnellement de mon côté surtout en raison de mon handicap je n'aime pas trop la projections de dessins j'aime mieux une oeuvre immersive. Donc je serai curieux de voir le résultat final mais je ne crois pas que ça m'intéresserais plus que ça. Je ressentirais plus un mouvement d'ennui surtout si je suis loin de la projection ##
  
-## 
+## 6) Distorsion collective ##
+### L'histoire ne m'intéresse pas vraiment. 
