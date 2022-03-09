@@ -11,3 +11,4 @@
 ### Je trouve que cette idée est très unique et originale de rester dans un casier en entendant des sons inquiétants. Je suis un fan de film d'horreur et même si j'aurais probablement un peu peur je pense que je ressentirez plus de plaisir a vivre cette expérience. ###
 
 ## 4) Chère Sasha ##
+### Je trouve que l'histoire est claire et intriguante, même si cela ne m'intéresse moins que les autres oeuvres ci-dessus. Par contre, je suis curieux de savoir à         quoi ressemblera le résultat final. ### 
