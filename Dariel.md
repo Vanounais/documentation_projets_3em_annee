@@ -14,4 +14,4 @@ Projets ordonnés:
 
 Le role que j'aimerais jouer lors de la 3eme années:
 
-     -J'ai beaucoup d'idées qui me passe par la tête, alors j'aimerais pouvoir les données a mon équipe. Je suis aussi très bon en programmation et ce qui concerne electricité et       réseau grace a ma derniere technique (Ordinateur et Réseau).
+     - J'ai beaucoup d'idées qui me passe par la tête, alors j'aimerais pouvoir les données a mon équipe. Je suis aussi très bon en programmation et ce qui concerne electricité et       réseau grace a ma derniere technique (Ordinateur et Réseau).
