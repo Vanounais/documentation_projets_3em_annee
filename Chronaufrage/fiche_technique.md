@@ -18,6 +18,8 @@ Le schéma de plantation:
 
 ![Photo](photo/plantation_chronaufrage.png)
 
+Pour faire fonctionner l'oeuvre, l'interacteur.trice doit rester devant l'un des grands tableaux pour que se tableau s'anime.
 
+Trois cours qui sont utile pour créer ce projet: Animation 2D, Atelier de création d'images matricielles, Programmation interactive et bases de données.
 
 [Source de l'oeuvre Chronaufrage](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
