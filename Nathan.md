@@ -1,1 +1,1 @@
-# Projet en ordre de préférences #
+# Projet en ordre #
