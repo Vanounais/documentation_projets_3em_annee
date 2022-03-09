@@ -14,4 +14,6 @@
 ### Je trouve que l'histoire est claire et intriguante, même si cela ne m'intéresse moins que les autres oeuvres ci-dessus. Par contre, je suis curieux de savoir à         quoi ressemblera le résultat final. ### 
 
 ##  5) Chronaufrage ##
- ### Je pense que l'idée est bonne, par contre personnellement de mon côté surtout en raison de mon handicap je n'aime pas trop la projections de dessins. 
+ ### Je pense que l'idée est bonne, par contre personnellement de mon côté surtout en raison de mon handicap je n'aime pas trop la projections de dessins j'aime mieux une oeuvre immersive. Donc je serai curieux de voir le résultat final mais je ne crois pas que ça m'intéresserais plus que ça. Je ressentirais plus un mouvement d'ennui surtout si je suis loin de la projection ###
+ 
+## 
