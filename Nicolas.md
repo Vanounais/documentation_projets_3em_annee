@@ -1,5 +1,5 @@
 
-# Projets en ordre de préférence :
+# Projets en ordre de préférence
 
 **1)** L'horloge de l'apocalypse :
 
@@ -13,8 +13,7 @@
 
 **6)**
 
-# Consignes :
-*temporaire*
+# Consignes *(temporaire)*
 
 De plus, chaque membre de l'équipe devra présenter, dans un fichier .md individuel (dans le repository d'équipe) :
 
