@@ -12,3 +12,6 @@
 
 ## 4) Chère Sasha ##
 ### Je trouve que l'histoire est claire et intriguante, même si cela ne m'intéresse moins que les autres oeuvres ci-dessus. Par contre, je suis curieux de savoir à         quoi ressemblera le résultat final. ### 
+
+##  5) Chronofrage ##
+ ### Je pense que
