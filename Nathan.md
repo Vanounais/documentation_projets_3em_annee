@@ -13,5 +13,5 @@
 ## 4) Chère Sasha ##
 ### Je trouve que l'histoire est claire et intriguante, même si cela ne m'intéresse moins que les autres oeuvres ci-dessus. Par contre, je suis curieux de savoir à         quoi ressemblera le résultat final. ### 
 
-##  5) Chronofrage ##
- ### Je pense que
+##  5) Chronaufrage ##
+ ### Je pense que l'idée est bonne, par contre personnellement de mon côté surtout en raison de mon handicap je n'aime pas trop la projections de dessins. 
