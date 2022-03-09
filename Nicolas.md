@@ -1,18 +1,27 @@
 
 # Projets en ordre de préférence
 
-**1) L'horloge de l'apocalypse :** 
+**1) L'horloge de l'apocalypse :**
 - j'aime beaucoup l'idée d'une horloge qui nous montre des événements passé et futur jusqu'a l'apocalypse. Le matériel avec le style romain est bien choisi je trouve et les illustration on l'air génial.
+- Ressenti
 
-**2) A :**
+**2) Projet2 :**
+- Ressenti
 
-**3) A :**
+**3) Projet3 :**
+- Ressenti
 
-**4) A :**
+**4) Projet4 :**
+- Ressenti
 
-**5) A :**
+**5) Projet5 :**
+- Ressenti
 
-**6) A :**
+**6) Projet6 :**
+- Ressenti
+
+**Le rôle que je pense jouer dans un tel projet :**
+- rôle
 
 # Consignes *(temporaire)*
 
