@@ -7,20 +7,20 @@
    - j'ai hâte de voir le résultat de leur travail et de pouvoir et de pouvoir admirer les scènes qui'ils ont créer.
 
 2. **Chronofrage :**
-   - Justification
-   - Ressenti
+   - j'aime le dessins donc naturellement j'ai hâte de voir se qu'il auront fais sur leur toiles.
+   - Je serai surement en admiration devant leurs oeuvres.
 
 3. **Chère Sasha :**
-   - Justification
+   - j'aime bien l'histoire et l'originalité du projet
    - Ressenti
 
 4. **Jeu temporel :**
-   - Justification
+   - l'idée du jeu télévisé est excellente mais elle m'attire moin que les précédentes.
    - Ressenti
 
 5. **Distorsion collective :**
-   - Justification
-   - Ressenti
+   - Il n'y a pas beaucoup d'information sur le projet mais j'ai compris l'idée.
+   - J'ai pas eu l'occasion de tester beaucoup de VR dans ma vie donc j'ai bien hâte d'en faire l'expérience.
 
 6. **3 minutes :**
    - j'aime bien l'idée et la cause est admirable mais simplement j'ai moin hâte de me retrouver enfermer dans un "casier" avec des sons inquiétants.
