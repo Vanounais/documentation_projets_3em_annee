@@ -3,7 +3,7 @@
 
 
 1. **L'horloge de l'apocalypse :**
-   - j'aime beaucoup l'idée d'une horloge qui nous montre des événements passé et futur jusqu'a l'apocalypse. Le matériel avec le style romain est bien choisi je trouve et les illustration on l'air génial.
+   - j'aime beaucoup l'idée d'une horloge qui nous montre des événements passé et futur jusqu'a l'apocalypse. Le matériel avec le style romain est bien choisi je trouve et les illustration on l'air génial et bien réaliser.
    - Ressenti
 
 2. **Chronofrage :**
