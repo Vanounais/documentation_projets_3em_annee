@@ -13,4 +13,4 @@ Projets ordonnés:
      - Manque un peu d'information qui explique l'oeuvre, mais j'aime beaucoup les oeuvres avec des casque de VR alors j'ai hate de voir plus. 
 
 Le role que j'aimerais jouer lors de la 3eme années.
-     - J'ai beaucoup d'idées qui me passe par la tête, alors j'aimerais pouvoir les données a mon équipe. Je suis aussi très bon en programmation et ce qui concerne electricité et       réseau grace a ma derniere technique (Ordinateur et Réseau).
+     - J'ai beaucoup d'idées qui me passe par la tête, alors j'aimerais pouvoir les données a mon équipe et créé une oeuvre qui va etre interactive et très original. Je suis aussi très bon en programmation et ce qui concerne electricité et réseau grace à ma derniere technique (Ordinateur et Réseau). Pour l'instalation de l'oeuvre, j'ai beaucoup faire des croquis et preparer l'oeuvre d'avance sur un schemas.
