@@ -6,22 +6,22 @@
    - j'aime beaucoup l'idée d'une horloge qui nous montre des événements passé et futur jusqu'a l'apocalypse. Le matériel avec le style romain est bien choisi je trouve et les illustration on l'air génial.
    - Ressenti
 
-2. **Projet2 :**
+2. **Chronofrage :**
    - Ressenti
 
 
-3. **Projet3 :**
+3. **Chère Sasha :**
    - Ressenti
 
-4. **Projet4 :**
-   - Ressenti
-
-
-5. **Projet5 :**
+4. **Jeu temporel :**
    - Ressenti
 
 
-6. **Projet6 :**
+5. **Distorsion collective :**
+   - Ressenti
+
+
+6. **3 minutes :**
    - Ressenti
 
 
