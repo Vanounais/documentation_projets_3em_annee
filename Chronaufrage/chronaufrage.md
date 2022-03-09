@@ -16,6 +16,6 @@ Une station avec un ordinateur pour faire la programmation de l'affichage du pro
 
 Le schéma de plantation:
 
-![Photo](photo/plantation_chronaufrage.jpeg)
+![Photo](photo/plantation_chronaufrage.png)
 
 [Site web utilisé pour avoir l'information](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
