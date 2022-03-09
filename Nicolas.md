@@ -26,7 +26,7 @@
 
 
 **Le rôle que je pense jouer dans un tel projet :**
-- rôle
+Soit dans la programmation du projet soit dans le design parce que jusqu'a maintenant je suis très a l'aise avec la programmation donc je serais surement en mesure de m'occuper du coter logiciel qu'il y a derrière mais peut-être aussi dans le design parce que j'aime bien faire des oeuvres sur photoshop, XD, ou illustrator mais le seul problème c'est que des fois je suis très douer en art et d'autres fois pour des raison inconnue je le suis moin.
 
 
 <!--
