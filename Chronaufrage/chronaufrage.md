@@ -8,6 +8,6 @@ L'ambiance est plutot relaxante, calme et sombre avec des couleurs froides.
 
 L'instalation de l'oeuvre dans la salle est composé d'un projecteur qui sert à presenter les 4 grands tableaux et d'autres petits tableaux
 
-![Photo](photo/)
+![Photo](photo/projecteur_setup1.jpeg)
 
 [Site web utilisé pour avoir l'information](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
