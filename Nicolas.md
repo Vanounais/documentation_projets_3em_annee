@@ -23,7 +23,7 @@
    - J'ai pas eu l'occasion de tester beaucoup de VR dans ma vie donc j'ai bien hâte d'en faire l'expérience.
 
 6. **3 minutes :**
-   - J'aime bien l'idée et la cause est admirable mais simplement j'ai moin hâte de me retrouver enfermer dans un "casier" avec des sons inquiétants.
+   - J'aime bien l'idée et la cause est admirable mais simplement j'ai moins hâte de me retrouver enfermer dans un "casier" avec des sons inquiétants.
    - J'ai personnellement moins hâte d'expérimenter cette oeuvre, pour les raison cité plus haut j'ai peur de me sentir inconfortable mais en même temps c'est un peu le but recherché par cette oeuvre.
 
 ## Le rôle que je pense jouer dans un tel projet
