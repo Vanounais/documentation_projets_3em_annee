@@ -2,7 +2,7 @@ Musée de la vie (Chronaufrage)
 
 Réalisé par : Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine
 
-Par ce projet, nous souhaitons exposer la pression vécue dans notre société de devoir être toujours plus productives afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi. Nous souhaitons ainsi faire valoir l’importance du temps « mort » et « improductif » pour s’accomplir comme humain. On utilise l'eau comme la symbolisation du temps. (Texte pris de [Intention de départ](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html))
+Par ce projet, nous souhaitons exposer la pression vécue dans notre société de devoir être toujours plus productives afin d'exprimer la nécessité de prendre des pauses ou du temps pour soi. Nous souhaitons ainsi faire valoir l’importance du temps « mort » et « improductif » pour s’accomplir comme humain. On utilise l'eau comme la symbolisation du temps. (Texte pris de : [Intention de départ](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html))
 
 L'ambiance est plutot relaxante, calme et sombre avec des couleurs froides.
 
