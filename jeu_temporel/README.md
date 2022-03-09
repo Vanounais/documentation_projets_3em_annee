@@ -1,1 +1,1 @@
-Ce dossier contienr les information relative à "jeu_temporel".
+Dossier de l'oeuvre Jeu temporel.
