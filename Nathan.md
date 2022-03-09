@@ -16,4 +16,4 @@
  ### Je pense que l'idée est bonne, par contre personnellement de mon côté surtout en raison de mon handicap je n'aime pas trop la projections de dessins j'aime mieux une oeuvre immersive. Donc je serai curieux de voir le résultat final mais je ne crois pas que ça m'intéresserais plus que ça. Je ressentirais plus un mouvement d'ennui surtout si je suis loin de la projection ##
  
 ## 6) Distorsion collective ##
-### L'histoire ne m'intéresse pas vraiment. 
+### L'histoire ne m'intéresse pas vraiment au moins pour l'instant. Je trouve qu'il manquait certaines informations pour monter mon niveau d'interet. Mais je serais curieux de voir le résultat du projet lorsque ce sera terminé ou assez avancé. ###
