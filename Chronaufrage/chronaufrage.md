@@ -10,4 +10,8 @@ L'instalation de l'oeuvre dans la salle est composé d'un projecteur qui sert à
 
 ![Photo](photo/projecteur_setup1.jpeg)
 
+Une station avec un ordinateur pour faire la programmation de l'affichage du projecteur et de la kinect pour activer l'interaction de l'oeuvre.
+
+![Photo](photo/setup1.jpeg)
+
 [Site web utilisé pour avoir l'information](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
