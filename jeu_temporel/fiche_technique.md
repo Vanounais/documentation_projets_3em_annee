@@ -25,7 +25,9 @@
 ### Que je réponde aux questions pour voir mes connaissances et en savoir plus sur la crise climatique ###
 
 ## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet ##
-### Programmation, Montages sonores et vidéo pour création paysages,
+### Programmation, Montages sonores et vidéo pour la création des paysages. ###
+
+(Source pris de [Jeu Temporel](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html))
 
 
 
