@@ -21,7 +21,7 @@
 
 ![Photo](photo/photo_plan_technique_branchement.png)
 
-
+![Photo](photo_plan_technique_materiel_scenographie.png)
 
 
 
