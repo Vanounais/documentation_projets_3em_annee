@@ -13,3 +13,7 @@ Pour l'instalation en cours, l'endroit où la personne va interagir avec le casq
 Le schéma de plantation
 
 ![Photo](photo/plantation_distorsion_collective.png)
+
+L'interacteur.trice doit mettre le casque de VR et s'assoir sur une chaise avec un bureau devant lui.
+
+[Source de l'oeuvre Distorsion collective]()
