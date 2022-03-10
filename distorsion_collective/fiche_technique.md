@@ -6,7 +6,7 @@ Faire comprendre l’évolution de l’angoisse ressentie par un étudiant type 
 
 L'ambiance avant de mettre le casque VR est de la music epic qui donne l'envit de débuter une aventure et après avoir retirer le casque la music est plutot dramatique et émotionnel.
 
-Pour l'instalation en cours, il n'a pas beaucoup de preparation physique apart l'endrois ou la personne va interagir avec le casque de VR. Mais la preparation avec les logiciels a l'aire très complexe. 
+Pour l'instalation en cours, l'endroit où la personne va interagir avec le casque de VR, un bureau, une chaise, des lumières, des haut-parleurs et un projecteur. Mais la preparation avec les logiciels à l'aire très complexe avec les modelisations 3D. 
 
 ![Photo](photo/distortion_logiciel.JPEG)
 
