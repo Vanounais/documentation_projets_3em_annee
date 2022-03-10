@@ -6,5 +6,5 @@
 
 ### Respirations fortes, pleurs, cris, rires moqueurs. (Texte pris de : [site de l'oeuvre 3 minutes](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html#Planification-technique-(devis-technique)) ###
 
-[Photo](/photo/3minutes_casier.JPEG)
+[Photo](/3_minutes/photo/3minutes_casier.JPEG)
 
