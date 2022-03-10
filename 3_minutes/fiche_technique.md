@@ -19,4 +19,4 @@
 ## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet ##
 ### Montage sonore, Réalité virtuelle, Modélisation 3D ###
 
-(Source : [3 minutes](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html))
+( Source : [3 minutes](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html))
