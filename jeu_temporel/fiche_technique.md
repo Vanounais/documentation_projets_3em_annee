@@ -17,6 +17,10 @@
 
 ![Photo](photo/jeu_temporel_speaker.JPEG)
 
+![Photo](photo/photo_plan_technique_plantation_jeu_temporel.png)
+
+
+
 
 
 ## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation ##
