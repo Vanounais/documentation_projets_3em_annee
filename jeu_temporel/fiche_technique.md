@@ -18,3 +18,12 @@
 ![Photo](photo/jeu_temporel_speaker.JPEG)
 
 
+
+## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation ##
+### Que je réponde aux questions pour voir mes connaissances et en savoir plus sur la crise climatique ###
+
+## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet ##
+### Programmation, Montages sonores et vidéo pour création paysages,
+
+
+
