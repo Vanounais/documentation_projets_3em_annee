@@ -16,4 +16,6 @@ Le schéma de plantation
 
 L'interacteur.trice doit mettre le casque de VR et s'assoir sur une chaise avec un bureau devant lui.
 
-[Source de l'oeuvre Distorsion collective]()
+Trois cours qui sont utile pour créer ce projet: Modélisation 3D, Conception sonore, Réalité virtuelle.
+
+[Source de l'oeuvre Distorsion collective](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html)
