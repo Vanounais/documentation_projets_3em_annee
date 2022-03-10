@@ -1,6 +1,6 @@
 # Jeu temporel #
 
-## Créateurs ##
+
 ### Raphaël Fillion et Philippe Trudel ###
 
 ## la façon dont le thème du temps est exploité dans la création ##
