@@ -12,4 +12,4 @@ Pour l'instalation en cours, il n'a pas beaucoup de preparation physique apart l
 
 Le schéma de plantation
 
-![Photo](photo/plantation_distortion.png)
+![Photo](photo/plantation_distorsion_collective.png)
