@@ -15,3 +15,8 @@
 
 ## Ce qui sera attendu de moi durant l'expérimentation ##
 ###  ta respiration devient de plus en plus insupportable, l'angoisse commence à prendre le dessus 3 minutes devient un long moment interminable. ###
+
+## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet ##
+### Montage sonore, Réalité virtuelle, Modélisation 3D ###
+
+(Source : [3 minutes](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html))
