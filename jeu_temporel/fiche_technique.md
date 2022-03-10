@@ -21,10 +21,6 @@
 
 ![Photo](photo/photo_plan_technique_branchement.png)
 
-![Photo](photo_plan_technique_materiel_scenographie.png)
-
-
-
 ## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation ##
 ### Que je réponde aux questions pour voir mes connaissances et en savoir plus sur la crise climatique ###
 
