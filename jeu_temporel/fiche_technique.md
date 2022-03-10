@@ -15,6 +15,6 @@
 
 ![Photo](photo/jeu_temporel_podium.JPEG)
 
-![Photo](
+![Photo](photo/jeu_temporel_speaker.JPEG)
 
 
