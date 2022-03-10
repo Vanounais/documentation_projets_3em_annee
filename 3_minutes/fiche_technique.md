@@ -10,3 +10,6 @@
 
 ![Photo](photo/casier.jpeg)
 
+![Photo](photo/plantation_3minutes.png)
+(Photo pris : [site de l'oeuvre 3 minutes](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html#Planification-de-la-production-(budget-et-%C3%A9tapes-de-r%C3%A9alisation)
+
