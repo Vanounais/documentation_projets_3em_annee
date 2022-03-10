@@ -27,7 +27,7 @@
 ## 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet ##
 ### Programmation, Montages sonores et vidéo pour la création des paysages. ###
 
-(Source pris de [Jeu Temporel](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html))
+(Source pris de : [Jeu Temporel](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html))
 
 
 
