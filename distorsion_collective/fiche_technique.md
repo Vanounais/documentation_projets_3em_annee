@@ -8,4 +8,4 @@ L'ambiance avant de mettre le casque VR est de la music epic qui donne l'envit d
 
 Pour l'instalation en cours, il n'a pas beaucoup de preparation physique apart l'endrois ou la personne va interagir avec le casque de VR. Mais la preparation avec les logiciels a l'aire très complexe. 
 
-![Photo](photo/)
+![Photo](photo/distortion_logiciel.JPEG)
