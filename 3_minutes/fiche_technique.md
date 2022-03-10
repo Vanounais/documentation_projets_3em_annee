@@ -13,3 +13,5 @@
 ![Photo](photo/plantation_3minutes.png)
 (Photo pris : [site de l'oeuvre 3 minutes](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html#Planification-de-la-production-(budget-et-%C3%A9tapes-de-r%C3%A9alisation))
 
+## Ce qui sera attendu de moi durant l'expérimentation ##
+###  ta respiration devient de plus en plus insupportable, l'angoisse commence à prendre le dessus 3 minutes devient un long moment interminable. ###
