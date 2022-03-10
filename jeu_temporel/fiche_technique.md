@@ -13,7 +13,7 @@
 
 ![Photo](photo/jeu_temporel_matériel.JPEG)
 
-![Photo](
+![Photo](photo/jeu_temporel_podium.JPEG)
 
 ![Photo](
 
