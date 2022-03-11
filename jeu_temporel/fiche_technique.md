@@ -12,12 +12,13 @@
 ### Notez bien qu'en raison que les hyperliens ne marchent pas je l'ai pris spécifiquement dans la première partie de la table des matières (intention au concept) dans la sous-section description de l'expérience. ###
 
 
-## Photo ##
-
+## Photo du matériel et des branchements ##
 ![Photo](photo/jeu_temporel_matériel.JPEG)
 
+## Photo de la surface de jeu où on peut aperçevoir les boutons pour répondre aux questions ##
 ![Photo](photo/jeu_temporel_podium.JPEG)
 
+## Photo du haut-parleur ##
 ![Photo](photo/jeu_temporel_speaker.JPEG)
 
 ![Photo](photo/photo_plan_technique_plantation_jeu_temporel.png)
