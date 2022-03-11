@@ -5,11 +5,10 @@ Par ce projet, nous souhaitons exposer comment la vie d'une personne LGBTQ+ ento
   
 L'ambience du projet  est asser sombre et triste étant donné la situation du personnage on poura l'entendre pleurer, prendre des grande respiration alors qu'il y a une averse de pluie avec du tonnere en plus.
   
-l'instalation néccessite 
+L'instalation néccessite un projecteur pour finaliser le look de la chambre. il y a également 4 speakers disposé sur chaque coins de la zone de projet. Tout plein d'accessoir sont laissé a la disposition de l'interacteur positionné de manière a ce que la zone de projet ai l'air d'une chambre divisé en 2 avec un coté pour Sasha ado et un autre pour sasha adulte.
 ![Photo](photo/chère_sasha_projecteur.JPEG)  
   
-Bien sûr 
-  
+Le tout est gêrer via un ordinateur de contrôle avec les logiciels nécessaire pour que tous se déroule comme prévue.
 ![Photo](photo/chère_sasha_logiciel.JPEG)  
   
 ### Le shéma de plantation :
