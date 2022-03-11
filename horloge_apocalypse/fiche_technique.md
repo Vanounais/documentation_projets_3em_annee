@@ -13,4 +13,8 @@ Bien sûr il y a aussi toute la partie logiciel qui s'assure du bons fonctionnem
 ![Photo](photo/horloge_logiciel.JPEG)  
   
 Le shéma de plantation :
-![Photo](photo/horloge_plantation.png)
+![Photo](photo/horloge_plantation.png)  
+  
+Le rôle de l'interacteur est de jouer avec les aiguilles de l'horloge pour qu'il se rende compte de tous se qui ce passe dans le monde pour qu'il comprenne qu'il est important d'agir.  
+  
+3 cours.
