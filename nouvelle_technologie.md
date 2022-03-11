@@ -2,4 +2,5 @@
 ???
   
 ## Une composante technologique inconnue
-???
+- Kinect
+    Elle sert a
