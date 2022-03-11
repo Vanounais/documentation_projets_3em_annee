@@ -17,9 +17,9 @@ Le tout est gêrer via un ordinateur de contrôle avec les logiciels nécessaire
 Le rôle de l'interacteur est  de ce promener dans le décor et d'interragir avec les élément du décor pour en savoir plus sur la situation de nos deux personnages. Éventuellement l'intéracteur est amené à comprendre qu'en fait les deux personnages ne font qu'un avec seulement quelques années de différence.
   
 ### 3 cours indispensable au projet :  
-"Animation 2D" pour les illustration de la chambre.
-"Conception sonore interactive" pour les son d'ambiance.
-"Programmation interactive et bases de données" pour la programmation.
+"Animation 2D" pour les illustration de la chambre.  
+"Conception sonore interactive" pour les son d'ambiance.  
+"Programmation interactive et bases de données" pour la programmation.  
       
   (source : [Site de l'oeuvre](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html))
 
