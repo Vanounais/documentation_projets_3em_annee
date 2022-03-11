@@ -12,9 +12,14 @@ Bien sûr il y a aussi toute la partie logiciel qui s'assure du bons fonctionnem
   
 ![Photo](photo/horloge_logiciel.JPEG)  
   
-Le shéma de plantation :
+### Le shéma de plantation :
 ![Photo](photo/horloge_plantation.png)  
   
 Le rôle de l'interacteur est de jouer avec les aiguilles de l'horloge pour qu'il se rende compte de tous se qui ce passe dans le monde pour qu'il comprenne qu'il est important d'agir.  
   
-3 cours.
+### 3 cours indispensable au projet :  
+"Atelier de création d’images matricielles" pour les illustration.  
+"Conception sonore interactive" pour les son d'ambiance.  
+"Programmation interactive et bases de données" pour la programmation.  
+  
+  (source : [Site de l'oeuvre](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html))
