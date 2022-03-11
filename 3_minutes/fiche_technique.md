@@ -10,8 +10,10 @@
 ## Ambiances ##
 ### Respirations fortes, pleurs, cris, rires moqueurs. (Texte pris de : [site de l'oeuvre 3 minutes](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html#Planification-technique-(devis-technique)) ###
 
+## Photo en question de la chaise et du casier.
 ![Photo](photo/3minutes_casier.JPEG)
 
+## Photo d'ensemble du projet  
 ![Photo](photo/casier.jpeg)
 
 ![Photo](photo/plantation_3minutes.png)
