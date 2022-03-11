@@ -1,1 +1,1 @@
-Photo pour les techniques et
+Photo pour la nouvelle technologie
