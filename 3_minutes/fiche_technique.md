@@ -1,6 +1,6 @@
 # 3 minutes #
 
-## créateurd/créatrices ##
+## créateurs / créatrices ##
 ## Naoufal Bensaiad, Jérémie Lévesque, Samuel Poulin ##
 (Nom pris de : [la page d'acceuil du projet 3 minutes](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html))
 
