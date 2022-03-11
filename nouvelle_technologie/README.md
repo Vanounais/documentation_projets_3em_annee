@@ -1,1 +1,1 @@
-Dossier pour une technique et composant inconnu
+Dossier pour la technique et composant inconnu
