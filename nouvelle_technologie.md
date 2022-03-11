@@ -2,5 +2,4 @@
 ???
   
 ## Une composante technologique inconnue
-- Kinect
-    Elle sert a
+- Kinect : elle est utilisé pour capter les mouvements
