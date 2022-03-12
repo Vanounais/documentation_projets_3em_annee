@@ -2,11 +2,11 @@ Projets ordonnés:
 1. L'Horloge de l'apocalypse
      - La salle auquel l'oeuvre est présenter est très bien fait et elle donne une très belle ambience avec les projecteurs autour de la salle.
 2. Chronaufrage
-     - J'aime beaucoup les peintures et les dessins dans les musées. Cette oeuvre est très creative. Je trouve aussi que le thème de l'eau 
+     - J'aime beaucoup les peintures et les dessins dans les musées et cet oeuvre rempli de tableau est très creative. Je trouve aussi que le thème de l'eau est très plaisant. 
 3. 3 Minutes
      - Très original comme projet et un oeuvre qui fait participer beaucoup le visiteur. Cet oeuvre est très immersif.
 4. Jeu temporel
-     - Un projet qui est beaucoup plus concentré sur l'interaction avec le visiteur 
+     - Un projet qui est beaucoup plus concentré sur l'interaction avec le visiteur et lui permet de faire des choix. 
 5. Chère Sasha
      - Une oeuvre qui a un sujet très interesent et different des autres.
 6. Distorsion collective
