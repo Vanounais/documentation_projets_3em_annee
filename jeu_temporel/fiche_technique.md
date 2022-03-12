@@ -6,7 +6,9 @@
  (Nom pris de : [page d'accueil du jeu tempore](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html))
 
 ## la façon dont le thème du temps est exploité dans la création ##
- Nous souhaitons sensibiliser la génération actuelle sur les conséquences écologiques de nos actions pour le futur. Nous voulons également que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action. Aussi Notre projet fait participer le ou les participants dans un jeu qui veut faire réaliser et voir les impacts de nos choix individuel et en tant que société dans cette crise climatique. (Texte pris de : [l'oeuvre du jeu temporel](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html#Intention-ou-concept)) ###
+ Nous souhaitons sensibiliser la génération actuelle sur les conséquences écologiques de nos actions pour le futur. Nous voulons également que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action. Aussi Notre projet fait participer le ou les participants dans un jeu qui veut faire réaliser et voir les impacts de nos choix individuel et en tant que société dans cette crise climatique.
+ 
+(Texte pris de : [l'oeuvre du jeu temporel](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html#Intention-ou-concept)) ###
 
 Notez bien qu'en raison que les hyperliens ne marchent pas je l'ai pris spécifiquement dans la première partie de la table des matières (intention au concept) dans la sous-section intention de départ. 
 
