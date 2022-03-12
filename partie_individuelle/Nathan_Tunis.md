@@ -20,4 +20,4 @@ Je trouve que l'idée du jeu télévisé c'est une bonne idée. Je trouve que c'
 
 
 # Le rôle que je pense jouer dans un tel projet #
-### Je pense que je jouerai plus un rôle dans le montage du projet ou du cöté design du projet car c'est la chose qui m'intéresse le plus ou c'est l'endroit que j'excelle le plus. Par contre c'est sûr que j'aiderais dams la programmation et qu'au fil du temps je pourrais me découvrir une passion que je ne connais pas en ce moment, mais pour l'instant ce n'est vraiment pas une de mes forces et je me débrouille mais pas plus que ça. ###
+ Je pense que je jouerai plus un rôle dans le montage du projet ou du cöté design du projet car c'est la chose qui m'intéresse le plus ou c'est l'endroit que j'excelle le plus. Par contre c'est sûr que j'aiderais dams la programmation et qu'au fil du temps je pourrais me découvrir une passion que je ne connais pas en ce moment, mais pour l'instant ce n'est vraiment pas une de mes forces et je me débrouille mais pas plus que ça. 
