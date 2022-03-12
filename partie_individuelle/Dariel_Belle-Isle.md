@@ -8,7 +8,7 @@ Projets ordonnés:
 4. Jeu temporel
      - Un projet qui est beaucoup plus concentré sur l'interaction avec le visiteur et lui permet de faire des choix. 
 5. Chère Sasha
-     - Une oeuvre qui a un sujet très interesent et different des autres.
+     - Un oeuvre qui a un sujet très interesent et different des autres. Elle est aussi très bien détaillé sur l'histoire de Sasha.
 6. Distorsion collective
      - Manque un peu d'information qui explique l'oeuvre, mais j'aime beaucoup les oeuvres avec des casque de VR alors j'ai hate de voir plus. 
 
